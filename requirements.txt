@@ -1,10 +1,4 @@
 # requirements.txt
-# mysqlclient==2.2.4
-# SQLAlchemy==2.0.25
+mysql-connector-python==9.0.0
+SQLAlchemy==2.0.25
 
-# pymysql
-# SQLAlchemy==2.0.25
-
-streamlit
-mysqlclient
-SQLAlchemy
